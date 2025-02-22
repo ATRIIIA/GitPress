@@ -10,3 +10,6 @@ This is your first post.
 ## Useful links
 
 - github:
+
+
+copyright©︎2025 ATRIIIA All rights rserved

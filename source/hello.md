@@ -1,5 +1,5 @@
 ---
-title: Say Hello to the world
+title: Hello
 date: 2025-02-23
 ---
 

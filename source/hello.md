@@ -1,11 +1,11 @@
 ---
-title: Hello
+title: こんにちは（Hello）
 date: 2025-02-23
 ---
 
-## Hello
+## こんにちは（Hello）
 
-This is your first post.
+This isfirst post.
 
 ## Useful links
 
